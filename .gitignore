@@ -1,5 +1,6 @@
 .vscode/
 env/
+cache_directory/
 *.pyc
 .DS_Store
 .env
