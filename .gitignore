@@ -1,4 +1,5 @@
 .vscode/
 env/
-playground/
-data/
+*.pyc
+.DS_Store
+.env
